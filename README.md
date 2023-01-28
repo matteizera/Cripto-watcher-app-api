@@ -14,6 +14,14 @@
 - [ ] Desenvolver sistema de favoritos
 - [ ] Desenvolver sistema de simulação de compra e venda
 
+## Endpoints
+
+Os seguintes *endpoints* foram desenvolvidos:
+
+| Path                           | Método | Ação                                                        |
+|:-------------------------------|:------:|:------------------------------------------------------------|
+| `/candles/:quantidade`         | GET    | Retorna a quantidade indicada de candles salva no banco     |
+
 ## Project setup
 ```
 npm install
