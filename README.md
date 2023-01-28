@@ -3,7 +3,7 @@
 
 ### Projeto seguindo o curso do Sidney Souza que pode ser encontrado [aqui](https://www.youtube.com/playlist?list=PL370TvW48yBupAwG99DiAjLSLDwCoPb07)
 ### Repositorio do app pode ser encontrado [aqui](https://github.com/matteizera/Cripto-watcher-app-vue)
-### Repositorio da api pode ser encontrado [aqui](https://github.com/matteizera/Cripto-watcher-app-api)
+### Repositorio do crawler pode ser encontrado [aqui](https://github.com/matteizera/Cripto-watcher-app-crawler)
 
 ### Trilha & Melhorias
 - [x] Envio dos dados em tempo real via web-socket
